@@ -47,9 +47,11 @@ This repository is an idea of what I have tried and learnt over the past few yea
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](ishahemantarora@gmail.com)<br>
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](arora.isha@northeastern.edu)
 
+<!--
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=isha-04&repo=Facial-Emotion-Recognition&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=isha-04&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isha-04&layout=compact&theme=cobalt&hide_border=true" />
 

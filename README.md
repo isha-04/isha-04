@@ -1,4 +1,4 @@
-### Hi, I'm [Isha Hemant Arora] (https://github.com/isha-04) 👋
+### Hi, I'm Isha Hemant Arora 👋
 
 <!--
 **isha-04/isha-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,7 +10,8 @@ This repository is an idea of what I have tried and learnt over the past few yea
 * 👨‍🎓 Always open to learning new things and extremely passionate and detail-oriented about everything I do.
 
 💬 My skills include:
-![image](https://user-images.githubusercontent.com/35531580/187680671-3d1aebd5-fc08-48dd-8c65-ea9bd376376c.png)
+
+
 
 
 <!--

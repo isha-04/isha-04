@@ -55,7 +55,7 @@ This repository is an idea of what I have tried and learnt over the past few yea
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=isha-04&show_icons=true&theme=ADD_THEME_HERE" width="400">-->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isha-04&layout=compact&theme=cobalt&hide_border=true" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isha-04&layout=compact&theme=cobalt&hide_border=true" /> -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${isha-04}.${isha-04})
 

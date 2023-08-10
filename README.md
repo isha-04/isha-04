@@ -1,6 +1,6 @@
 ## Hi, I'm Isha Arora (she/her) 👋
 
-This repository is an idea of what I have tried and learned over the past few years, first, as a Computer Engineer and now as a Data Scientist. I particularly enjoy working with data and trying to understand how I could solve problems in all spheres using Machine Learning and Data Science. Innovative by nature, I am extremely passionate about what I do. Currently, I am trying to branch out into the space of Healthcare and bioinformatics and hopefully work at the intersection of data science and health.
+This repository is an idea of what I have tried and learned over the past few years, first, as a Computer Engineer and now as a Data Scientist. I particularly enjoy working with data and trying to understand how I could solve problems in all spheres using Machine Learning and Data Science. Innovative by nature, I am extremely passionate about what I do.
 
 ***
 

@@ -5,7 +5,7 @@ This repository is an idea of what I have tried and learned over the past few ye
 ***
 
 🚀 Things you should know about me:
-* 👨‍💻 Currently pursuing *Master's in Data Science* from **Northeastern University, Boston**.
+* 👨‍💻 *Master's in Data Science* from **Northeastern University, Boston**.
 * 🔭 Completed a co-op as *Research Student* with **Massachusetts General Hopsital** in **The Dekel Laboratory** for 8 months.
 * ✨ Worked as *Associate Engineer - Technology* with **Virtusa Consulting Services, Pvt. Ltd.** in India for a year.
 * 👯 Looking to collaborate on projects in *Computer Vision*, *Natural Language Processing*, and *AWS Cloud*.
